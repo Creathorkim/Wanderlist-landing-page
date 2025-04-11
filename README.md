@@ -2,7 +2,7 @@
 
 A responsive, Bootstrap‑powered landing page for **WanderList**, a travel itinerary planner.
 
-##  Live Demo
+## Live Demo
 
 [https://<Creathorkim>.github.io/wanderlist-landing/](https://<Creathorkim>.github.io/wanderlist-landing/)
 
@@ -13,7 +13,7 @@ A responsive, Bootstrap‑powered landing page for **WanderList**, a travel itin
 - Google Fonts (Montserrat)  
 - Bootstrap Icons  
 
-## 📝 Features
+## Features
 
 - **Responsive Hero** section with image  
 - **Features** grid showcasing core product benefits  
