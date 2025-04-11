@@ -4,22 +4,19 @@ A responsive, Bootstrap‑powered landing page for **WanderList**, a travel itin
 
 ## Live Demo
 
-[https://<Creathorkim>.github.io/wanderlist-landing/](https://<Creathorkim>.github.io/wanderlist-landing/)
+[https://<creathorkim>.github.io/Wanderlist-landing-page/](https://creathorkim.github.io/Wanderlist-landing-page/)
 
 ## Tech Stack
 
-- HTML5 & CSS3  
-- [Bootstrap 5](https://getbootstrap.com/)  
-- Google Fonts (Montserrat)  
-- Bootstrap Icons  
+- HTML5 & CSS3
+- [Bootstrap 5](https://getbootstrap.com/)
+- Google Fonts (Montserrat)
+- Bootstrap Icons
 
 ## Features
 
-- **Responsive Hero** section with image  
-- **Features** grid showcasing core product benefits  
-- **Quote** section using semantic `<blockquote>`  
-- **Call‑to‑Action** with flexbox layout  
-- **Footer** with copyright & creator credit  
-
-
-
+- **Responsive Hero** section with image
+- **Features** grid showcasing core product benefits
+- **Quote** section using semantic `<blockquote>`
+- **Call‑to‑Action** with flexbox layout
+- **Footer** with copyright & creator credit
