@@ -15,7 +15,7 @@ A responsive, Bootstrap‑powered landing page for **WanderList**, a travel itin
 
 ## Features
 
-- **Responsive Hero** section with image
+- **Responsive Hero** Headline, CTA & Image
 - **Features** grid showcasing core product benefits
 - **Quote** section using semantic `<blockquote>`
 - **Call‑to‑Action** with flexbox layout
